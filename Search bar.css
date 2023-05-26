@@ -1,0 +1,80 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+a
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+input:focus, textarea:focus, select:focus
+{
+   outline: none;
+}
+#Shape1
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#Layer1
+{
+   background-color: transparent;
+   background-image: url('images/photo-1592842062835-9f79e9a82421.jpg');
+   background-repeat: repeat;
+   background-position: left top;
+   border-radius: 0px;
+}
+#Shape2
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_IconFont1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   border-radius: 0px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#IconFont1
+{
+   height: 30px;
+   width: 45px;
+}
+#IconFont1 i
+{
+   color: #FFFFFF;
+   display: inline-block;
+   font-size: 30px;
+   line-height: 30px;
+   vertical-align: middle;
+   width: 29px;
+}
+#IconFont1:hover i
+{
+   color: #337AB7;
+}
